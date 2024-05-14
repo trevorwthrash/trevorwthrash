@@ -24,7 +24,7 @@ I'm a master's student in Financial Management at Texas A&M University, with a p
 - **Building Stuffoco+**: Developing an advanced pitching metric.
 
 ### Toolbox
-<p align="center">
+<p align="left">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="margin:4px"/>
 	<img title="R" alt="R" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" style="margin:4px"/>
 </p>
