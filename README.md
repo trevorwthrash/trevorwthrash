@@ -33,7 +33,7 @@ I'm a master's student in Financial Management at Texas A&M University, with a p
 - **LinkedIn**: [Trevor Thrash](https://www.linkedin.com/in/trevorthrash/)
 
 ### Learn More
-You can learn more about me, my history, and my work by [visiting my personal website](https://thrash.com).
+Learn more by [visiting my personal website](https://trevorthrash.com).
 
 ---
 
