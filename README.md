@@ -7,7 +7,6 @@
 
 [![Twitter: BuntocoStats](https://img.shields.io/twitter/follow/BuntocoStats?style=social)](https://twitter.com/BuntocoStats)
 [![Linkedin: Trevor Thrash](https://img.shields.io/badge/-TrevorThrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
-![](https://komarev.com/ghpvc/?username=trevorthrash&style=flat-square)
 
 ---
 
