@@ -26,10 +26,5 @@ I'm a master's student in Financial Management at Texas A&M University, with a p
 	<img title="R" alt="R" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" style="margin:4px"/>
 </p>
 
-### Connect with Me
-- **Twitter**: [@BuntocoStats](https://twitter.com/BuntocoStats)
-- **Email**: [trevor@thrash.com](mailto:trevor@thrash.com)
-- **LinkedIn**: [Trevor Thrash](https://www.linkedin.com/in/trevorthrash/)
-
 ### Learn More
 Learn more by [visiting my personal website](https://trevorthrash.com).
