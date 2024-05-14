@@ -1,4 +1,4 @@
-# Hi, I'm Trevor Thrash!
+# Trevor Thrash
 
 <img align='right' src="trevor_thrash.png" width="230">
 
