@@ -9,7 +9,7 @@
 ---
 
 ### About Me
-I'm a master's student in Financial Management at Texas A&M University, with a passion for both baseball analytics and energy trading analytics. I enjoy exploring data to uncover insights and trends, whether it's in the sports arena or the energy market.
+I'm a master's student in Financial Management at Texas A&M University, with a passion for baseball analytics.
 
 ### Currently
 - *Current Studies*: Pursuing a master's degree in Financial Management at Texas A&M
