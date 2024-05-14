@@ -1,6 +1,5 @@
 # Trevor Thrash
 
-<img align='right' src="trevor_thrash.png" width="230">
 
 *Financial Management student at [Texas A&M University](https://www.tamu.edu)*
 
