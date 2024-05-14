@@ -33,7 +33,3 @@ I'm a master's student in Financial Management at Texas A&M University, with a p
 
 ### Learn More
 Learn more by [visiting my personal website](https://trevorthrash.com).
-
----
-
-Thanks for visiting my GitHub profile!
