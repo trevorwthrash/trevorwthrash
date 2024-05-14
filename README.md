@@ -14,13 +14,12 @@ I'm a master's student in Financial Management at Texas A&M University, with a p
 
 ### My Work
 - **Current Studies**: Pursuing a master's degree in Financial Management at Texas A&M.
-- **Energy Trading Analytics**: Analyzing trends and data in the energy trading market.
-- **Baseball Analytics**: Writing articles and conducting research on various baseball analytics topics.
+- **Baseball Analytics**: Writing articles and conducting research on various baseball analytics topics
 
 ### Featured Articles
-- **Forecasting MLB Games with MCMC**: Using Markov Chain Monte Carlo methods to predict MLB game outcomes.
-- **Forecasting MLB Career Trajectories**: Projecting the future performance of MLB players.
-- **Building Stuffoco+**: Developing an advanced pitching metric.
+- **Forecasting MLB Games with MCMC**: Using Markov Chain Monte Carlo methods to predict MLB game outcomes
+- **Forecasting MLB Career Trajectories**: Projecting the future performance of MLB players
+- **Building Stuffoco+**: Developing an advanced pitching metric
 
 ### Toolbox
 <p align="left">
