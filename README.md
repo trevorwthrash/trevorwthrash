@@ -3,6 +3,7 @@
 <img align='right' src="trevor_thrash.png" width="230">
 
 *Financial Management student at [Texas A&M University](https://www.tamu.edu)*
+
 [![Twitter: BuntocoStats](https://img.shields.io/twitter/follow/BuntocoStats?style=social)](https://twitter.com/BuntocoStats)
 [![Linkedin: Trevor Thrash](https://img.shields.io/badge/-TrevorThrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
 
