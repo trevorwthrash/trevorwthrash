@@ -4,7 +4,7 @@
 *Financial Management student at [Texas A&M University](https://www.tamu.edu)*
 
 [![Twitter: TrevorThrash](https://img.shields.io/twitter/follow/trevorthrash?style=social)](https://twitter.com/TrevorThrash)
-[![Linkedin: Trevor Thrash](https://img.shields.io/badge/-TrevorThrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
+[![Linkedin: Trevor Thrash](https://img.shields.io/badge/-trevorthrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
 
 ---
 
