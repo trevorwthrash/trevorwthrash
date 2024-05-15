@@ -8,10 +8,6 @@
 
 ---
 
-### Currently
-- *Current Studies*: Pursuing a master's degree in Financial Management at Texas A&M
-- *Baseball Analytics*: Writing articles and conducting research on various baseball analytics topics
-
 ### Toolbox
 <p align="left">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="margin:4px"/>
