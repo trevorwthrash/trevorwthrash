@@ -4,15 +4,4 @@
 *Exploring Baseball Analytics at [Buntoco Stats](https://twitter.com/Buntoco)*
 
 [![Twitter: TrevorThrash](https://img.shields.io/twitter/follow/trevorthrash?style=social)](https://twitter.com/TrevorThrash)
-[![Linkedin: Trevor Thrash](https://img.shields.io/badge/-trevorthrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
-
----
-
-### Toolbox
-<p align="left">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="margin:4px"/>
-	<img title="R" alt="R" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" style="margin:4px"/>
-</p>
-
-### Learn More
-Learn more by [visiting my personal website](https://trevorthrash.com).
+[![Linkedin: Trevor Thrash](https://img.shields.io/badge/-trevorthrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/
