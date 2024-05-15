@@ -1,6 +1,7 @@
 <h1>Trevor Thrash</a> <img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
 *Financial Management student at [Texas A&M University](https://www.tamu.edu)*
+
 *Baseball Analytics at [BuntocoStats](https://twitter.com/Buntoco)*
 
 [![Twitter: TrevorThrash](https://img.shields.io/twitter/follow/trevorthrash?style=social)](https://twitter.com/TrevorThrash)
