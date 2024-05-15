@@ -1,4 +1,7 @@
-<h3 align="left">Trevor Thrash</h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h3>Trevor Thrash</h3>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</div>
 
 *Financial Management student at [Texas A&M University](https://www.tamu.edu)*
 
