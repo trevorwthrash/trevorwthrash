@@ -1,4 +1,4 @@
-<h1>Howdy!, I am <a href="https://github.com/Defcon27">Hemanth</a> <img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
+<h1>Howdy!, I am <a href="https://github.com/Defcon27">Trevor</a> <img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
 *Financial Management student at [Texas A&M University](https://www.tamu.edu)*
 
