@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: left; justify-content: space-between;">
   <h3>Trevor Thrash</h3> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </div>
 
