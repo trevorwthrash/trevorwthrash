@@ -8,9 +8,6 @@
 
 ---
 
-### About Me
-I'm a master's student in Financial Management at Texas A&M University, with a passion for baseball analytics.
-
 ### Currently
 - *Current Studies*: Pursuing a master's degree in Financial Management at Texas A&M
 - *Baseball Analytics*: Writing articles and conducting research on various baseball analytics topics
