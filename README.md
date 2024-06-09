@@ -5,7 +5,7 @@
 [![Twitter: TrevorThrash](https://img.shields.io/twitter/follow/trevorthrash?style=social)](https://twitter.com/TrevorThrash)
 [![Linkedin: Trevor Thrash](https://img.shields.io/badge/-trevorthrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
 
-<h3>My current work:</h2>
+<h3>What I am currently working on:</h2>
 - Finishing up my final internship at Shell before returning to school to complete my master's coursework
 - Working on Baseball analytics as a hobby
 
