@@ -10,6 +10,6 @@
 - Working on Baseball analytics as a hobby
 
 <h3>Connect with me:</h2>
-Find me on [Twitter](https://twitter.com/TrevorThrash) or send me an email
+Find me on [![Twitter: TrevorThrash](https://twitter.com/TrevorThrash) or send me an email
 
 
