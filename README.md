@@ -2,7 +2,7 @@
 <img align='right' src="trevor_thrash.png" width="230">
 <p><em>Master's in Financial Management at <a href="https://www.tamu.edu">Texas A&M University</a></br>Trading, Risk, and Investments</em></p>
 
-[![Twitter: BuntocoStats](https://img.shields.io/twitter/follow/BuntocoStats?style=social)](https://twitter.com/BuntocoStats)
+[![Twitter: TrevorThrash](https://img.shields.io/twitter/follow/BuntocoStats?style=social)](https://twitter.com/TrevorThrash)
 [![Linkedin: trevorthrash](https://img.shields.io/badge/-trevorthrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
 ![](https://komarev.com/ghpvc/?username=trevorthrash&style=flat-square)
 
