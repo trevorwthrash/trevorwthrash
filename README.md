@@ -1,5 +1,5 @@
 # Hi, I'm Trevor Thrash! ![wave](https://raw.githubusercontent.com/trevorwthrash/trevorwthrash/main/wave.gif)
-*Studying: Financial Management at [Texas A&M University](https://www.tamu.edu)*
+*Studying: Financial Management at [Texas A&M University](https://www.tamu.edu)*<br>
 *Trading, Risk, and Investments*
 [![Twitter: TrevorThrash](https://img.shields.io/twitter/follow/TrevorThrash?style=social)](https://twitter.com/TrevorThrash)
 [![Linkedin: TrevorThrash](https://img.shields.io/badge/-TrevorThrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
