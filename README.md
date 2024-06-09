@@ -6,15 +6,6 @@
 [![Linkedin: trevorthrash](https://img.shields.io/badge/-trevorthrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
 ![](https://komarev.com/ghpvc/?username=trevorthrash&style=flat-square)
 
-```r
-trevor <- list(
-    pronouns = c('he', 'him', 'his'),
-    favorite_baseball_teams = c('Houston Astros'),
-    loves_to = c('analyze baseball data', 'write Python scripts', 'share insights on Twitter'),
-    years_in_baseball_analytics = 3
-)
-```
-
 ### My current work:
 - Developing advanced metrics for evaluating baseball pitches, including Stuff+ models and seam-shifted wake effects.
 - Creating visualizations and analytics content for my Twitter audience [@BuntocoStats](https://twitter.com/BuntocoStats).
