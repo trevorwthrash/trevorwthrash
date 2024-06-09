@@ -1,13 +1,35 @@
-# Hi, I'm Trevor Thrash!
-*Studying: Financial Management at [Texas A&M University](https://www.tamu.edu)*<br>
-*Trading, Risk, and Investments*<br>
-[![Twitter: TrevorThrash](https://img.shields.io/twitter/follow/TrevorThrash?style=social)](https://twitter.com/TrevorThrash)
-[![Linkedin: TrevorThrash](https://img.shields.io/badge/-TrevorThrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
+<h2> Hi, I'm Trevor Thrash! <img src="https://media2.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif?cid=ecf05e47vp3mv4kap6h2w6sy4qk5fswdtb9sx8u32gss3z4f&rid=giphy.gif&ct=s" width="50"></h2>
+<img align='right' src="trevor_thrash.png" width="230">
+<p><em>Master's in Financial Management at <a href="https://www.tamu.edu">Texas A&M University</a></br>Energy Trading Analyst</em></p>
 
-### Current Projects
-- Completing my final internship at Shell before returning to Texas A&M for my master's coursework.
-- Enhancing my Python and R skills through Baseball Analytics.
-- Building a Stuff+ Model and creating daily Baseball Simulations.
+[![Twitter: BuntocoStats](https://img.shields.io/twitter/follow/BuntocoStats?style=social)](https://twitter.com/BuntocoStats)
+[![Linkedin: trevorthrash](https://img.shields.io/badge/-trevorthrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
+![](https://komarev.com/ghpvc/?username=trevorthrash&style=flat-square)
 
-### Let's Connect!
-The best way to reach me is via [Twitter](https://twitter.com/TrevorThrash) or through [Email](mailto:trevorwthrash@gmail.com)
+```r
+trevor <- list(
+    pronouns = c('he', 'him', 'his'),
+    favorite_baseball_teams = c('Houston Astros'),
+    loves_to = c('analyze baseball data', 'write Python scripts', 'share insights on Twitter'),
+    years_in_baseball_analytics = 3
+)
+```
+
+### My current work:
+- Developing advanced metrics for evaluating baseball pitches, including Stuff+ models and seam-shifted wake effects.
+- Creating visualizations and analytics content for my Twitter audience [@BuntocoStats](https://twitter.com/BuntocoStats).
+- [Writing articles and tutorials](https://trevorthrash.substack.com) on baseball analytics techniques.
+
+### My toolbox:
+<p align="center">
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
+	<img title="SQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
+</p>
+
+### Connect with me:
+The easiest way to connect with me is by sending a message on [Twitter](https://twitter.com/BuntocoStats) or via [email](mailto:trevor@buntocostats.com).
+
+### Learn more:
+You can learn more about me, my history, and my work by [visiting my personal website](https://trevorthrash.com).
