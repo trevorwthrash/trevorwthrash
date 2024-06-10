@@ -1,5 +1,5 @@
 <h2> Hi, I'm Trevor Thrash! <img src="https://media2.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif?cid=ecf05e47vp3mv4kap6h2w6sy4qk5fswdtb9sx8u32gss3z4f&rid=giphy.gif&ct=s" width="50"></h2>
-<img align='right' src="trevor_thrash.png" width="230">
+<img align='right' src="seager.webp" width="230">
 <p><em>Master's in Financial Management at <a href="https://www.tamu.edu">Texas A&M University</a></br>Trading, Risk, and Investments</em></p>
 
 [![Twitter: TrevorThrash](https://img.shields.io/twitter/follow/BuntocoStats?style=social)](https://twitter.com/TrevorThrash)
