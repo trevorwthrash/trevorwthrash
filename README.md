@@ -14,8 +14,7 @@
 <p align="left">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
-	<img title="SQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
+	<img title="AWS" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 ### Connect with me:
