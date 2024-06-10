@@ -19,6 +19,3 @@
 
 ### Connect with me:
 The easiest way to connect is by sending a message on [Twitter](https://twitter.com/BuntocoStats) or via [email](mailto:trevor@buntocostats.com)
-
-### Learn more:
-You can learn more about me, my history, and my work by [visiting my personal website](https://trevorthrash.com)
