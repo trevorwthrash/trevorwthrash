@@ -9,8 +9,6 @@
 ### My current work:
 - Finishing my final internship with Shell
 - Evaluating baseball pitches, including Stuff+ models
-- Creating visualizations and analytics content for my Twitter audience [@BuntocoStats](https://twitter.com/BuntocoStats)
-- [Writing articles and tutorials](https://trevorthrash.substack.com) on baseball analytics techniques
 
 ### My toolbox:
 <p align="left">
