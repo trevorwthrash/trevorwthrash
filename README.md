@@ -8,7 +8,7 @@
 
 ### My current work:
 - Finishing my final internship with Shell
-- Evaluating baseball pitches, including Stuff+ models
+- Building baseball analyses
 
 ### My toolbox:
 <p align="left">
