@@ -19,4 +19,4 @@
 </p>
 
 ### Connect with me:
-The easiest way to connect is by sending a message on [Twitter](https://twitter.com/BuntocoStats) or via [email](mailto:trevor@buntocostats.com)
+The easiest way to connect is by sending a message on [Twitter](https://twitter.com/TrevorThrash) or via [email](mailto:trevor@buntocostats.com)
