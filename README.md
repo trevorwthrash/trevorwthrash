@@ -1,4 +1,4 @@
-<h2> Hi, I'm Trevor Thrash! 👋</h2>
+<h2> Hi, I'm Trevor Thrash </h2>
 <img align='right' src="seager.webp" width="230" style="border-radius: 10;">
 <p><em>Master's in Financial Management at <a href="https://www.tamu.edu">Texas A&M University</a></br>Trading, Risk, and Investments Program at <a href="https://mays.tamu.edu">Mays Business School</a></em></p>
 
@@ -8,7 +8,7 @@
 
 ### My current work:
 - Finishing my final internship with Shell
-- Building baseball analyses
+- Working on Baseball Analytics
 
 ### My toolbox:
 <p align="left">
