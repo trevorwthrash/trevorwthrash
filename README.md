@@ -8,8 +8,10 @@
 <p><em>Master's in Financial Management at <a href="https://www.tamu.edu">Texas A&M University</a></br>Trading, Risk, and Investments Program at <a href="https://mays.tamu.edu">Mays Business School</a></em></p>
 
 ### My current work:
-- Finishing my final internship with Shell
-- Working on Baseball Analytics
+- Finishing my Master's degree at Texas A&M
+- Building a Stuff+ model
+- Learning Bayesian Statistics
+- Building a Lineup Simulator
 
 ### My toolbox:
 <p align="left">
