@@ -1,6 +1,5 @@
 <h2> Hi, I'm Trevor Thrash </h2>
 
-[![Twitter: TrevorThrash](https://img.shields.io/twitter/follow/BuntocoStats?style=social)](https://twitter.com/TrevorThrash)
 [![Linkedin: trevorthrash](https://img.shields.io/badge/-trevorthrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
 ![](https://komarev.com/ghpvc/?username=trevorthrash&style=flat-square)
 
@@ -20,4 +19,4 @@
 </p>
 
 ### Connect with me:
-The easiest way to connect is by sending a message on [Twitter](https://twitter.com/TrevorThrash) or via [email](mailto:trevor@buntocostats.com)
+The easiest way to connect is by sending a message on [Twitter](https://twitter.com/TrevorThrash) or via [email](mailto:trevorwthrash@gmail.com)
