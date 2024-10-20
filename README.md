@@ -8,9 +8,8 @@
 
 ### My current work:
 - Finishing my Master's degree at Texas A&M
-- Building a Stuff+ model
-- Learning Bayesian Statistics
-- Building a Lineup Simulator
+- Teaching myself Bayesian Statistics
+- Working on MLB, NFL, and CFB models
 
 ### My toolbox:
 <p align="left">
