@@ -10,7 +10,6 @@
 - Wrapping up my master's coursework at Texas A&M
 - Working on a Stuff+ model
 - Teaching myself Bayesian Statistics
-- Working on MLB, NFL, and CFB models
 
 ### My toolbox:
 <p align="left">
