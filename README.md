@@ -7,7 +7,7 @@
 <p><em>Master's in Financial Management at <a href="https://www.tamu.edu">Texas A&M University</a></br>Trading, Risk, and Investments Program at <a href="https://mays.tamu.edu">Mays Business School</a></em></p>
 
 ### My current work:
-- Wrapping up my Master's Coursework at Texas A&M (Spring 2025)
+- Wrapping up my Master's Coursework at Texas A&M
 - Working on a Stuff+ model
 - Teaching myself Bayesian Statistics
 
