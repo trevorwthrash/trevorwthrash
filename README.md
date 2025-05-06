@@ -1,4 +1,4 @@
-<h2> Hi, I'm Trevor Thrash </h2>
+<h2> Trevor Thrash </h2>
 
 [![Linkedin: trevorthrash](https://img.shields.io/badge/-trevorthrash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevorthrash/)](https://www.linkedin.com/in/trevorthrash/)
 ![](https://komarev.com/ghpvc/?username=trevorthrash&style=flat-square)
@@ -9,7 +9,6 @@
 ### My current work:
 - Wrapping up my Master's Coursework at Texas A&M
 - Working on a Stuff+ model
-- Teaching myself Bayesian Statistics
 
 ### My toolbox:
 <p align="left">
